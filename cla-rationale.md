@@ -38,7 +38,6 @@ processes:
   <http://code.google.com/legal/individual-cla-v1.0.html>
 * [Linux kernel](http://kernel.org/):
   <http://elinux.org/Developer_Certificate_Of_Origin>
-* [Node](http://nodejs.org/): <http://nodejs.org/cla.html>
 * [10Gen](http://www.10gen.com/) (MongoDB):
   <http://www.10gen.com/contributor>
 
